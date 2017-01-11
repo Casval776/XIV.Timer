@@ -1,0 +1,14 @@
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\bin\Debug\FFXIV_TimerV2.exe.config
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\bin\Debug\FFXIV_TimerV2.exe
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\bin\Debug\FFXIV_TimerV2.pdb
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\FFXIV_TimerV2.csprojResolveAssemblyReference.cache
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\MainWindow.g.cs
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\App.g.cs
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\FFXIV_TimerV2_MarkupCompile.cache
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\FFXIV_TimerV2_MarkupCompile.lref
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\MainWindow.baml
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\FFXIV_TimerV2.g.resources
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\FFXIV_TimerV2.Properties.Resources.resources
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\FFXIV_TimerV2.csproj.GenerateResource.Cache
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\FFXIV_TimerV2.exe
+c:\users\grans\documents\visual studio 2015\Projects\FFXIV_TimerV2\FFXIV_TimerV2\obj\Debug\FFXIV_TimerV2.pdb

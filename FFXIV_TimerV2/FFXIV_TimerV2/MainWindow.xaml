@@ -1,0 +1,14 @@
+﻿<Window x:Class="FFXIV_TimerV2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FFXIV_TimerV2"
+        mc:Ignorable="d"
+        Title="FFXIV Timer" Height="350" Width="525"
+        WindowStyle="None" AllowsTransparency="True" Background="Transparent">
+    <Grid MouseDown="Window_OnMouseDown">
+        <TextBox Name="TransparencyValueBox" Text="{Binding ElementName=TransSlider, Path=Value, UpdateSourceTrigger=PropertyChanged}" TextAlignment="Right" Width="40" Margin="132,3,352.8,317.4" Background="Transparent"></TextBox>
+        <Slider x:Name="TransSlider" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="117" TickFrequency="5" Maximum="100" TickPlacement="TopLeft" IsSnapToTickEnabled="True" ValueChanged="TransSlider_OnValueChanged"/>
+    </Grid>
+</Window>
